@@ -14,7 +14,7 @@ class Requete {
   }
 
   public function inserer($table, $valeurs) {
-    
+    INSERT INTO $table() VALUES($valeurs[])
   }
 
   public function __destruct() {
